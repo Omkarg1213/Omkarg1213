@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkar G</h1>
 <h3 align="center">SDET enthusiast | Java | Selenium | API Testing | SQL | Seeking opportunities to grow in software testing</h3>
 
-<img align="right" alt="testing" length="300" width="300" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*C1fOBHUKKKDS_TBmWVczFQ.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarg1213&label=Profile%20views&color=0e75b6&style=flat" alt="omkarg1213" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **omkarg9731@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jYG7dCRk6mvul1LitW2JgBCpeo9IqzFG/view](https://drive.google.com/file/d/1jYG7dCRk6mvul1LitW2JgBCpeo9IqzFG/view)
+- 📄 Know about my experiences [https://gdrive.openinapp.co/154zc](https://drive.google.com/file/d/1jYG7dCRk6mvul1LitW2JgBCpeo9IqzFG/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
