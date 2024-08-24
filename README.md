@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **omkarg9731@gmail.com**
 
-- 📄 Know about my experiences [[https://gdrive.openinapp.co/154zc](https://drive.google.com/file/d/1jYG7dCRk6mvul1LitW2JgBCpeo9IqzFG/view)](https://drive.google.com/file/d/1LgzMLsCvVLTW_LuB_MAzySYN-6Q21zDf/view?usp=drivesdk )
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1LgzMLsCvVLTW_LuB_MAzySYN-6Q21zDf/view?usp=drivesdk )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
